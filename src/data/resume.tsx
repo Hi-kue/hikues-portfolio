@@ -152,7 +152,7 @@ export const DATA = {
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-        "Given ",
+        "Collection of resume worthy projects and learning activities, including SaaS projects, open-source contributions, and more with students from various Universities and Colleges within Ontario.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -180,7 +180,7 @@ export const DATA = {
       dates: "June 2023 - Present",
       active: true,
       description:
-        "",
+        "Agora, a in house SW company, tailoring to the needs of students and lifelong learners powered by adaptive products, leveraging the latest technologies in the market with a primary focus on AI driven learning.",
       technologies: [
         "Next.js",
         "Typescript",
