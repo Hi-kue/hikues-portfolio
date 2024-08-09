@@ -9,13 +9,13 @@
     Portfolio Website for Myself, Hikue
     <br />
     <br />
-    <a href="/url">View Demo</a>
+    <a href="www.bilalkhan.dev/">View Website</a>
     ✱
-    <a href="/url">Report Bug</a>
+    <a href="https://github.com/Hi-kue/hikues-portfolio/issues">Report Bug</a>
     ✱
-    <a href="/url">Request Feature</a>
+    <a href="https://github.com/Hi-kue/hikues-portfolio/issues">Request Feature</a>
     ✱
-    <a href="/url">Documentation</a>
+    <a href="./docs/">Documentation</a>
   </p>
 </div>
 <div align="center"> 
