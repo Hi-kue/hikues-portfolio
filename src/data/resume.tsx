@@ -22,9 +22,14 @@ export const DATA = {
     "MERN",
     "BETH",
     "GOTTH",
+    "Hono 🦄",
+    "TailwindCSS",
     "PostgresSQL",
     "MongoDB",
     "Firebase 🔥",
+    "SupaBase",
+    "Drizzle & DrizzleKit",
+    "Prisma",
     "MySQL",
     "Oracle",
     "Docker",
@@ -32,7 +37,8 @@ export const DATA = {
     "Communication",
     "Teamwork",
     "Problem Solving",
-    "Leadership"
+    "Leadership",
+    "Time Management",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -281,11 +287,20 @@ export const DATA = {
       dates: "August 1st - August 4th, 2024",
       location: "Toronto, Ontario",
       description:
-        "This is the first ever Hackathon I am going to, I am super excited to work with my team, meet new people and learn new things.",
+        "First ever hackathon I went to, one of the best experiences I have had. Learned a lot about how hackathons work, introductions to hackathons and what to expect from them from the mentors and judges.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0r6CNpUNrW9XdR-c3cmY1bzihCbKrLOtiQ&s",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
+    {
+      title: "HeadStarter AI | Hiring Hackathon",
+      dates: "August 16th - 18th",
+      locations: "Remote, Worldwide",
+      description: "Second hackathon hosted by HeadStarter AI, this hackathon was focused on getting the best talent hired from their fellowship program. The hackathon consisted of 7 companies, all of which were looking to hire the best talent, and each company would have their own objectives and what they were looking for in a candidate. I learned a lot about how companies look for talent, and even created by own scraper for this hackathon.",
+      image: "https://media.licdn.com/dms/image/v2/D4E0BAQGJ5j3fUqrp5Q/company-logo_200_200/company-logo_200_200/0/1708200043507/theheadstarter_logo?e=1732147200&v=beta&t=4TOvvfNXmbu8nawZFgTkaV86ORc8HaAJ9CEcssohgl4",
+      mlh: "",
+      links: [],
+    }
   ],
 } as const;
