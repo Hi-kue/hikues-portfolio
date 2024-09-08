@@ -107,21 +107,21 @@ export const DATA = {
       title: "SWE Fellow @ HeadStarter AI",
       logoUrl: "/assets/headstarter-ai.jpg",
       start: "July 2024",
-      end: "Present",
+      end: "September 2024",
       description:
         "Intensive 7-week fellowship working on 5 AI projects, and one final project with a goal of hitting 1,000 users/waitlist or $1000 in revenue (Track A Requirements).",
     },
     {
-      company: "CodeClause Inc.",
-      href: "https://codeclause.com/",
+      company: "Grow Intern",
+      href: "https://growintern.com/",
       badges: [],
       location: "Remote",
-      title: "Java Developer Intern @ CodeClause Inc.",
-      logoUrl: "/assets/codeclause.png",
+      title: "Java Developer Intern @ GrowIntern Inc.",
+      logoUrl: "/assets/growintern-logo.jpeg",
       start: "August 2024",
-      end: "Present",
+      end: "September 2024",
       description:
-        "Developed and maintained Java applications, working on Gold Standard projects, with effective documentation and communication among colleagues to ensure effective delivery.",
+        "Not much of an internship, more of an apprenticeship where I spearheaded the development of     BumbleBank Banking Application using NextJs and Spring Boot, and AstorQuiz Application using JavaFx and FXML, and designing intuitive user interfaces, implementing congestion and load balancing techniques for data flow control.",
     },
   ],
   education: [
