@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="aside__about">
+    {{ with .Site.Params.about.logo }}
+    <img class="about__logo" src="{{ . | absURL }}" alt="Logo">
+    {{ end }}
+    
+    <h1 class="about__title">404 - Page Not Found</h1>
+    
+    <p class="about__description">
+        Oops! The page you're looking for doesn't exist, has been moved, or is temporarily unavailable.
+    </p>
+    
+    <p class="about__description">
+        <a href="{{ "/" | relURL }}" class="home-link">Return to Home</a>
+    </p>
+</div>
+
+{{ with .Site.Params.socialLinks }}
+<ul class="aside__social-links">
+    {{ range $item := . }}
+    <li>
+        <a href="{{ $item.url }}" rel="me" aria-label="{{ $item.title }}" title="{{ $item.title }}">
+            <i class="{{ $item.icon }}" aria-hidden="true"></i>
+        </a>&nbsp;
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+{{ end }}

@@ -1,0 +1,61 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Hikue's Site"
+
+author = "Hi-kue"
+description = "Hi-kue's Portfolio Site"
+site.copyright = "© 2025 Hi-kue. All rights reserved."
+
+
+# Defined Socials
+[[params.socialLinks]]
+img = "/icons/linkedin.svg"
+title = "linkedin"
+url = "https://www.linkedin.com/in/hikue/"
+
+[[params.socialLinks]]
+img = "/icons/bluesky.svg"
+title = "bluesky"
+url = "https://bsky.app/profile/hikue.bsky.social"
+
+[[params.socialLinks]]
+img = "/icons/github.svg"
+title = "github"
+url = "https://github.com/Hi-kue"
+
+[[params.socialLinks]]
+img = "/icons/twitter.svg"
+title = "twitter"
+url = "https://x.com/hikue_kodes"
+
+[security]
+enableInlineShortcodes = true
+
+[privacy]
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.x]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services]
+[services.instagram]
+disableInlineCSS = true
+
+[services.x]
+disableInlineCSS = true
+
+[markup.highlight]
+noClasses = false
+

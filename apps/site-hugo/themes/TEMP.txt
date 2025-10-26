@@ -1,0 +1,4 @@
+This is a TEMPORARY file, remove me when
+you are working within this directory.
+This file is only used to allow git to
+track directories with no content.

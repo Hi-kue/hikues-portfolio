@@ -1,0 +1,281 @@
+{
+    "name": "Muhammad Bilal Khan",
+    "initials": "BK",
+    "url": "https://site.hikue.dev/",
+    "location": "Mississauga, ON, Canada",
+    "locationLink": "https://www.google.com/maps/place/Mississauga,+ON/@43.5772076,-79.6594949,11z/data=!3m1!4b1!4m6!3m5!1s0x882b469fe76b05b7:0x3146cbed75966db!8m2!3d43.5852972!4d-79.6449838!16zL20vMDE1NGd4?entry=ttu",
+    "description": "I like to build and create things.",
+    "summary": "I'm an aspiring SWE who doesn't give a flying fuck about the tech industry. I love building things that solve real-world problems and doesn't need to be complex to use. I hate unnecessary complexity, hence this site.",
+    "skills": [
+        // Languages
+        "Python",
+        "JavaScript/TypeScript",
+        "Java",
+        "TypeScript",
+        "Lua",
+        "Go",
+
+        // Frontend Stuff
+        "React.js",
+        "Next.js",
+        "Tanstack",
+        "TailwindCSS",
+        "Drizzle & DrizzleKit",
+        "Prisma",
+
+        // Fullstack Classifications
+        "MERN",
+        "PETN (PET)",
+        "PERN",
+
+        // Backend Frameworks
+        "Hono",
+        "NodeJs",
+        "Express",
+        "NestJs",
+        "FastAPI",
+        "Docker",
+        "Jenkins",
+        "Github Actions",
+        
+        // Database Technologies
+        "PostgresSQL",
+        "SupaBase",
+        "MySQL",
+        "MongoDB",
+
+        // Cloud Technologies
+        "AWS",
+        "Oracle (OCI)",
+        "GCP",
+        "Cloudflare",
+        "Railway",
+
+        // Soft Skills
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Leadership",
+        "Time Management"
+    ],
+    "contact": {
+        "email": "hikue.primary@gmail.com",
+        "tel": "+1 (647) 509-7475",
+        "social": {
+            "GitHub": {
+                "name": "GitHub",
+                "url": "https://github.com/Hi-kue",
+                "icon": "/icons/github.svg"
+            },
+            "LinkedIn": {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/hikue/",
+                "icon": "/icons/linkedin.svg"
+            },
+            "X": {
+                "name": "X/Twitter",
+                "url": "https://x.com/hikue_kodes",
+                "icon": "/icons/twitter.svg"
+            },
+            "Youtube": {
+                "name": "Youtube",
+                "url": "https://www.youtube.com/@bytekodes",
+                "icon": "/icons/youtube.svg",
+                "navbar": true
+            },
+            "email": {
+                "name": "Send Email",
+                "url": "hikue.primary@gmail.com",
+                "icon": "/icons/email.svg",
+                "navbar": false
+            }
+        }
+    },
+    "work": [
+        {
+            "company": "Connectome",
+            "badges": [],
+            "href": "https://www.connectome.care/",
+            "location": "New York, USA (Remote)",
+            "title": "SWE @ Connectome",
+            "logoUrl": "/assets/connectome.jpg",
+            "start": "May 2025",
+            "end": "August 2025",
+            "description": ""
+        },
+        {
+            "company": "Connectome",
+            "badges": [],
+            "href": "https://www.connectome.care/",
+            "location": "New York, USA (Remote)",
+            "title": "SWE Intern @ Connectome",
+            "logoUrl": "/assets/connectome.jpg",
+            "start": "May 2025",
+            "end": "August 2025",
+            "description": ""
+        },
+        {
+            "company": "AgoraEDU",
+            "badges": [],
+            "href": "https://www.agoraedu.com/",
+            "location": "Remote, Worldwide",
+            "title": "Founding Software Engineer @ AgoraEDU",
+            "logoUrl": "/assets/agoraedu.jpg",
+            "start": "May 2025",
+            "end": "August 2025",
+            "description": ""
+        },
+        {
+            "company": "EduTrend",
+            "badges": [],
+            "href": "",
+            "location": "Hoboken, New Jersey, USA (Remote)",
+            "title": "Software Development Intern @ EduTrend",
+            "logoUrl": "/assets/edutrend.jpg",
+            "start": "July 2025",
+            "end": "October 2025",
+            "description": ""
+        },
+        {
+            "company": "Dev Weekends",
+            "badges": [],
+            "href": "https://www.devweekends.com/",
+            "location": "Remote, Worldwide",
+            "title": "SWE Fellow @ Dev Weekends",
+            "logoUrl": "/assets/dev-weekends.jpg",
+            "start": "June 2025",
+            "end": "August 2025",
+            "description": "Intensive 4-month program immersed into the cutting-edge field of AI, building 14 hands-on projects throughout the duration of the 4-month program with the outcome to launch a successful career in the tech industry."
+        },
+        {
+            "company": "HeadStarter AI",
+            "badges": [],
+            "href": "https://headstarter.co/",
+            "location": "Remote, Worldwide",
+            "title": "SWE Resident @ HeadStarter AI",
+            "logoUrl": "/assets/headstarter-ai.jpg",
+            "start": "September 2024",
+            "end": "March 2025",
+            "description": "Intensive 4-month program immersed into the cutting-edge field of AI, building 14 hands-on projects throughout the duration of the 4-month program with the outcome to launch a successful career in the tech industry."
+        },
+        {
+            "company": "HeadStarter AI",
+            "badges": [],
+            "href": "https://headstarter.co/",
+            "location": "Remote, Worldwide",
+            "title": "SWE Fellow @ HeadStarter AI",
+            "logoUrl": "/assets/headstarter-ai.jpg",
+            "start": "July 2024",
+            "end": "September 2024",
+            "description": "Intensive 7-week fellowship working on 5 AI projects, and one final project with a goal of hitting 1,000 users/waitlist or $1000 in revenue (Track A Requirements)."
+        }
+    ],
+    "education": [
+        {
+            "school": "University of Guelph",
+            "href": "https://www.uoguelph.ca/",
+            "degree": "Bachelors of Computer Science (BSc)",
+            "logoUrl": "/assets/guelph-university.jpg",
+            "start": "2026-2027",
+            "end": "2028-2029"
+        },
+        {
+            "school": "Centennial College",
+            "href": "https://www.centennialcollege.ca/",
+            "degree": "Software Engineering Technology (Advanced Diploma)",
+            "logoUrl": "/assets/centennial-crest.png",
+            "start": "2023",
+            "end": "Present"
+        }
+    ],
+    "projects": [
+        {
+            "title": "OpenceJav Org",
+            "href": "https://github.com/openceJav",
+            "dates": "Jan 2024 - Feb 2024",
+            "active": true,
+            "description": "Collection of resume worthy projects and learning activities, including SaaS projects, open-source contributions, and more with students from various Universities and Colleges within Ontario.",
+            "technologies": [
+                "Next.js",
+                "Typescript",
+                "PostgreSQL",
+                "Prisma",
+                "TailwindCSS",
+                "Stripe",
+                "Shadcn UI",
+                "Magic UI"
+            ],
+            "links": [
+                {
+                    "type": "Source",
+                    "href": "https://github.com/openceJav",
+                    "icon": "Icons.github"
+                }
+            ],
+            "image": "/atmos_A.jpg",
+            "video": ""
+        },
+        {
+            "title": "AgoraEDU",
+            "href": "https://github.com/AgoraEDU",
+            "dates": "June 2023 - Present",
+            "active": true,
+            "description": "Agora, a in house SW company, tailoring to the needs of students and lifelong learners powered by adaptive products, leveraging the latest technologies in the market with a primary focus on AI driven learning.",
+            "technologies": [
+                "Next.js",
+                "Typescript",
+                "SupaBase",
+                "Prisma",
+                "TailwindCSS",
+                "Stripe",
+                "Shadcn UI",
+                "Aceternity UI",
+                "Magic UI"
+            ],
+            "links": [
+                {
+                    "type": "Website (Coming Soon)",
+                    "href": "/url",
+                    "icon": "Icons.globe"
+                },
+                {
+                    "type": "Source",
+                    "href": "",
+                    "icon": "Icons.github"
+                }
+            ],
+            "image": "/atmos_B.jpg",
+            "video": ""
+        }
+        // NOTE: Add more recent projects.
+    ],
+    "hackathons": [
+        {
+            "title": "GoonHacks",
+            "dates": "?",
+            "location": "Remote, Worldwide",
+            "description": "GoonHacks is a hackathon for people who mess with strange ideas, the ones that are overlooked, awkward, or maybe just stupid.",
+            "image": "",
+            "mlh": "",
+            "links": []
+        },
+        {
+            "title": "TerraHacks",
+            "dates": "August 1st - August 4th, 2024",
+            "location": "Toronto, Ontario",
+            "description": "First ever hackathon I went to, one of the best experiences I have had. Learned a lot about how hackathons work, introductions to hackathons and what to expect from them from the mentors and judges.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0r6CNpUNrW9XdR-c3cmY1bzihCbKrLOtiQ&s",
+            "mlh": "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+            "links": []
+        },
+        {
+            "title": "HeadStarter AI | Hiring Hackathon",
+            "dates": "August 16th - 18th",
+            "location": "Remote, Worldwide",
+            "description": "Second hackathon hosted by HeadStarter AI, this hackathon was focused on getting the best talent hired from their fellowship program. The hackathon consisted of 7 companies, all of which were looking to hire the best talent, and each company would have their own objectives and what they were looking for in a candidate. I learned a lot about how companies look for talent, and even created by own scraper for this hackathon.",
+            "image": "https://media.licdn.com/dms/image/v2/D4E0BAQGJ5j3fUqrp5Q/company-logo_200_200/company-logo_200_200/0/1708200043507/theheadstarter_logo?e=1732147200&v=beta&t=4TOvvfNXmbu8nawZFgTkaV86ORc8HaAJ9CEcssohgl4",
+            "mlh": "",
+            "links": []
+        }
+    ]
+}
